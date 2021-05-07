@@ -1,0 +1,9 @@
+{
+    "path" : "~/Vaccine/cowin",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

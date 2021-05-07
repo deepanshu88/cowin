@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1620395418227.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B1913FC4",
+    "lastKnownWriteTime" : 1620398220,
+    "last_content_update" : 1620398220691,
+    "path" : "~/Vaccine/cowin/R/cowinAPI.R",
+    "project_path" : "R/cowinAPI.R",
+    "properties" : {
+        "cursorPosition" : "29,179",
+        "scrollLine" : "20"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
